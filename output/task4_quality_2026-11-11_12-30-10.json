@@ -1,0 +1,29 @@
+{
+ "shape": [
+  166,
+  2
+ ],
+ "dtypes": {
+  "x": "object",
+  "y": "object"
+ },
+ "missing": {
+  "x": {
+   "count": 2,
+   "rows": [
+    131,
+    132
+   ]
+  },
+  "y": {
+   "count": 0,
+   "rows": []
+  }
+ },
+ "non_numeric": {},
+ "inf": {},
+ "type_mismatch": [
+  "x",
+  "y"
+ ]
+}
